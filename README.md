@@ -33,6 +33,12 @@ The objective of the project is to understand student spending behavior across v
 
 -Insight Generation: Extract trends, correlations, and category preferences.
 
+# Project Insights
+-Students spend more on Video Games and Gadgets in Urban settings.
+
+-Books and Indoor Games are more popular in Rural areas.
+
+-Spending preferences vary significantly based on Store Setting and Age Group.
 
 
 
