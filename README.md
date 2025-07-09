@@ -24,9 +24,13 @@ The objective of the project is to understand student spending behavior across v
 
 # Process
 -Data Collection: Use the "Student Survey" dataset provided.
+
 -Data Cleaning: Handle missing values, standardize columns, and format data types.
+
 -Data Exploration: Use Power BI to visualize spending by category, location, and age group.
+
 -Analysis: Compare spending patterns by Store Setting and identify high-interest categories.
+
 -Insight Generation: Extract trends, correlations, and category preferences.
 
 
