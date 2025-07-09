@@ -1,2 +1,9 @@
-# Student-Spending-Analysis-Dashboard
-This project analyzes student spending patterns in U.S. stores across categories like Video Games, Toys, and Gadgets. It focuses on how store location (Store Setting) influences purchasing behavior.
+ # Project Objective
+The objective of the project is to understand student spending behavior across various product categories and analyze how different store settings influence their purchasing decisions. This helps in identifying trends that can guide retailers in optimizing inventory and marketing strategies.
+
+
+
+
+
+
+
