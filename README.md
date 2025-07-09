@@ -20,6 +20,7 @@ The objective of the project is to understand student spending behavior across v
 8. Use Q&A feature of Power BI,
    a) To show average age of students 
    b) Donut chart for total amount of purchases by ‘Store location’
+-<a href="https://github.com/Swetha2403/Student-Spending-Analysis-Dashboard/tree/main/screeen%20shot">View Report</a>   
 
 
 
