@@ -23,8 +23,11 @@ The objective of the project is to understand student spending behavior across v
 -<a href="https://github.com/Swetha2403/Student-Spending-Analysis-Dashboard/tree/main/screeen%20shot">ViewReport</a>
 
 # Process
-The process began with collecting and cleaning the Student Survey dataset to ensure accurate and consistent data. Then, data visualization and analysis were performed using Power BI to explore spending patterns across different product categories and store settings, leading to meaningful insights.
-
+-Data Collection: Use the "Student Survey" dataset provided.
+-Data Cleaning: Handle missing values, standardize columns, and format data types.
+-Data Exploration: Use Power BI to visualize spending by category, location, and age group.
+-Analysis: Compare spending patterns by Store Setting and identify high-interest categories.
+-Insight Generation: Extract trends, correlations, and category preferences.
 
 
 
