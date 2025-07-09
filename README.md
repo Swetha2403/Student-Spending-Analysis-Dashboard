@@ -40,6 +40,11 @@ The objective of the project is to understand student spending behavior across v
 
 -Spending preferences vary significantly based on Store Setting and Age Group.
 
+# Final Conclusion
+The analysis reveals that student spending habits are influenced by store location and product type. Urban stores should focus on stocking entertainment tech, while rural stores should invest in educational and indoor activity items. These insights can help retailers and marketers tailor offerings for better student engagement and sales performance.
+
+
+
 
 
 
